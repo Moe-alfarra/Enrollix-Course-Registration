@@ -104,8 +104,6 @@ Enrollix Course Registration System
 │
 └── Database (PostgreSQL)
     ├── Users
-    ├── Students
-    ├── Professors
     ├── Courses
     ├── Course Offerings
     └── Enrollments
@@ -122,16 +120,6 @@ Enrollix Course Registration System
 * email
 * password
 * role
-  
-### Professors
-
-* id
-* user_id
-
-### Students
-
-* id
-* user_id
 
 ### Courses
 
