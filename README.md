@@ -8,9 +8,8 @@ Enrollix is a full-stack course registration platform that enables students, pro
 
 ## Live Demo
 
-Coming soon...
-
-image image image
+Hosted on Vercel: https://enrollix-course-registration.vercel.app/
+<img width="1914" height="911" alt="image" src="https://github.com/user-attachments/assets/3704587c-4682-4d13-b38e-4138ddb8443b" />
 
 ---
 
@@ -23,11 +22,15 @@ image image image
 * Drop enrolled courses
 * View enrolled courses and academic schedule
 
+<img width="1910" height="909" alt="image" src="https://github.com/user-attachments/assets/111e92e3-6e75-48b4-bbcf-962578946465" />
+
 ### Course & Offering Management (Professor Dashboard)
 
 * Professors can create and manage course offerings
 * Assign course sections, semesters, and instructors
 * Track enrolled students per course
+
+<img width="1901" height="902" alt="image" src="https://github.com/user-attachments/assets/e69e7901-df07-4e74-91d8-38aedd64a46d" />
 
 ### Course & User Management (Admin Dashboard)
 
@@ -35,6 +38,8 @@ image image image
 *  Create and manage courses for system
 * Soft delete and hard delete courses
 * System-wide administrative control
+
+<img width="1904" height="907" alt="image" src="https://github.com/user-attachments/assets/44bd8df2-bfe3-47f9-b227-73c0f95ebc2d" />
 
 ### Authentication & Security
 
