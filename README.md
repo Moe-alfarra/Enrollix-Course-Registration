@@ -87,6 +87,7 @@ image image image
 
 ## Architecture
 
+```
 Enrollix Course Registration System
 │
 ├── Frontend (React + Vite)
@@ -102,14 +103,13 @@ Enrollix Course Registration System
 │   └── Role-Based Access Control
 │
 └── Database (PostgreSQL)
-    ├── Users
+    ├── Users
     ├── Students
     ├── Professors
-    ├── Courses
-    ├── Course Offerings
-    └── Enrollments
-
----
+    ├── Courses
+    ├── Course Offerings
+    └── Enrollments
+```
 
 ## Database Schema
 
@@ -266,6 +266,3 @@ http://localhost:5173
 Computer Science Graduate 
 
 ---
-
-* Add **resume bullet points for Enrollix (stronger than your current ones)**
-* Or help you make this README even more **“recruiter-impressive” with metrics + impact**
